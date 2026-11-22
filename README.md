@@ -27,7 +27,7 @@ Which ad platform converts better, and can daily conversions be predicted from c
 
 ## Methodology
 
-1. **Descriptive statistics** (Excel): mean, median, mode and standard deviation of daily clicks and conversions for each platform, plus conversion-count groupings (1–5, 6–10, 11–15, 16+).
+1. **Descriptive statistics** (Excel): mean, median, mode, and standard deviation of daily clicks and conversions for each platform, plus conversion-count groupings (1–5, 6–10, 11–15, 16+).
 2. **Distribution checks** (Excel): histograms of clicks and conversions for each platform to assess normality.
 3. **Hypothesis testing** (Excel):
    - H0: no difference in mean daily conversions between Facebook and AdWords
@@ -39,6 +39,11 @@ Which ad platform converts better, and can daily conversions be predicted from c
 
 Excel, Tableau, statistics (descriptive statistics, t-test, simple linear regression)
 
+## Deliverables
+
+Excel Workbook sheets: Dataset, Analysis 1 AdWords Ad Conversions, Analysis 2 Facebook Ad Conversions, AdWords Distribution, Facebook Distribution, Hypothesis Testing, Modeling on Tableau.
+
+Tableau visualization:[link](https://public.tableau.com:9443/views/AdConversionsAnalysis/FacebookAdClicksvs_Conversions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Limitations and next steps
 
