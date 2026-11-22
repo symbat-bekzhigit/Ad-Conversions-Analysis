@@ -1,4 +1,4 @@
-# Ad Conversion Analysis: Facebook vs. AdWords
+# Ad Conversions Analysis: Facebook vs. AdWords
 
 Which ad platform converts better, and can daily conversions be predicted from clicks? This project analyzes a full year of campaign data (365 days, 2023) using descriptive statistics, hypothesis testing and regression in **Excel** and **Tableau**.
 
