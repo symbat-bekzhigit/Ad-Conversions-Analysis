@@ -43,7 +43,7 @@ Excel, Tableau, statistics (descriptive statistics, t-test, simple linear regres
 
 Excel Workbook sheets: Dataset, Analysis 1 AdWords Ad Conversions, Analysis 2 Facebook Ad Conversions, AdWords Distribution, Facebook Distribution, Hypothesis Testing, Modeling on Tableau.
 
-Tableau visualization:[link](https://public.tableau.com:9443/views/AdConversionsAnalysis/FacebookAdClicksvs_Conversions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau visualization: [link](https://public.tableau.com:9443/views/AdConversionsAnalysis/FacebookAdClicksvs_Conversions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Limitations and next steps
 
