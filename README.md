@@ -24,7 +24,6 @@ Which ad platform converts better, and can daily conversions be predicted from c
 
 - **Period:** Jan 1 – Dec 31, 2023 (365 daily rows)
 - **Fields per platform:** campaign, ad views, ad clicks, ad conversions, cost, plus derived click-through rate, conversion rate and cost per click
-- **Source:** [add source or state that it is a course dataset]
 
 ## Methodology
 
