@@ -12,7 +12,7 @@ Which ad platform converts better, and can daily conversions be predicted from c
 | Cost per conversion* | **$7.48** | $22.59 |
 
 - **Facebook converts significantly better.** A two-sample t-test on daily conversions gives t ≈ 32.9 and p far below α = 0.05, so the null hypothesis of "no difference between platforms" is rejected.
-- **Clicks predict conversions well on Facebook.** A simple linear regression (conversions ~ clicks) fits with R² ≈ 0.76. The model expects about **13 conversions on a day with 50 clicks**.
+- **Clicks predict conversions well on Facebook.** A simple linear regression (conversions ~ clicks) fits with R² ≈ 0.79. The model expects about **13 conversions on a day with 50 clicks**.
 
 \*Cost per conversion = total ad cost / total conversions, assuming the cost column is daily spend. Currency is not specified in the source data.
 
